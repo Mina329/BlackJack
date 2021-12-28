@@ -9,6 +9,7 @@ import java.util.Scanner;
 import java.util.*;
 /**
  *
+ * 
  * @author minae
  */
 public class Game {
